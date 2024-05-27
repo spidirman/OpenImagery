@@ -78,3 +78,5 @@ We welcome contributions to enhance OpenImagery. Please fork the repository, cre
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Thanks
+Thanks to SPITFIRE for providing his [api](https://api.sitius.ir/) for free 
