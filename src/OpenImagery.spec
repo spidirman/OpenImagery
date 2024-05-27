@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['OpenImagery.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[('./logo.ico', '.')],
