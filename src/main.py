@@ -297,7 +297,7 @@ class LoadingScreen(QSplashScreen):
 
 def main():
     app = QApplication(sys.argv)
-        splash = LoadingScreen()
+    splash = LoadingScreen()
     splash.show()
 
     time.sleep(2)
